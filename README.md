@@ -1,4 +1,4 @@
-[![View ebertolazzi/mexIPOPT on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/53040-ebertolazzi-mexipopt)
+Fork of eBertolazzi's mexIPOPT package - the original package did not deal with gcc versions > 9 correctly.
 
 ### mexIPOPT
 **by Enrico Bertolazzi**
